@@ -29,3 +29,7 @@ Ubuntu Post Install Script is a simple bash script for automating the reconfigur
 It is compatible with both 32 and 64 bit architectures 
 
 Feel free to copy, improve and distribute.
+=======
+ubuntu_post_install
+===================
+
